@@ -164,7 +164,9 @@ body {
     cursor: pointer;
     display: none;
 }
-
+.nav__menu:hover{
+    color: #444cf7;
+}
 .nav__img {
     display: block;
     width: 30px;
