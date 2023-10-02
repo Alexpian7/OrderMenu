@@ -43,6 +43,14 @@ body {
     z-index: -1;
 }
 
+.nav__logo img {
+    width: 150px;
+    top: 6.5px;
+    background: radial-gradient(circle at 33% 100%);
+    border-radius: 30%;
+    position: relative;
+   
+}
 
 
 
