@@ -53,8 +53,11 @@ body {
 }
 
 
-
-
+.nav__links:hover{
+    color: cadetblue;
+    width: 100%;
+    right: 0;
+}
 
 
 
