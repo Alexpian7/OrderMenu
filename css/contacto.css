@@ -214,7 +214,7 @@ body {
 
 .cta {
     display: inline-block;
-    background-color: #2091F9;
+    background-color: rgb(31, 201, 136);
     justify-self: center;
     color: #fff;
     text-decoration: none;
