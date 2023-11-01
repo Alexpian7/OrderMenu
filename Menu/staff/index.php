@@ -106,7 +106,7 @@
           if ($_SESSION['user_role'] == "Mesero") {
             echo '
             <li class="nav-item">
-              <a class="nav-link" href="carta.html">
+              <a class="nav-link" href="carta.html" target="_blank">
                 <i class="fas fa-fw fa-book"></i>
                 <span>Carta</span></a>
             </li>
