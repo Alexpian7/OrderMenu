@@ -105,6 +105,7 @@
               <a href="index.php">Panel de Control</a>
             </li>
             <li class="breadcrumb-item active">Ventas</li>
+            <li class="breadcrumb-item active">Imprimir</li>
           </ol>
 
           <!-- Page Content -->

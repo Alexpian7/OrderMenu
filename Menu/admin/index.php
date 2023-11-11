@@ -90,6 +90,13 @@
             <span>Empleados</span>
           </a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://xeduark.github.io/proyecto_intro_P/dash.html" target="_blank">
+            <i class="fa-sharp fa-light fa-clipboard"></i>
+            <span>Inventario</span>
+          </a>
+        </li>
         
 
 
